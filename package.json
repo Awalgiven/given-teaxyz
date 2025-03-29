@@ -1,0 +1,23 @@
+{
+  "name": "given-teaxyz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awalgiven/given-teaxyz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Awalgiven/given-teaxyz/issues"
+  },
+  "homepage": "https://github.com/Awalgiven/given-teaxyz#readme",
+  "dependencies": {
+    "sleep-promise": "^9.1.0"
+  }
+}
